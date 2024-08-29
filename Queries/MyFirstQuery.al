@@ -28,7 +28,7 @@ query 50100 "Customer Sales"
     }
     
     var
-        myInt: Integer;
+        myInt,myint2: Integer;
     
     trigger OnBeforeOpen()
     begin
