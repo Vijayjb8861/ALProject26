@@ -75,7 +75,7 @@ page 50111 "Collections"
         // mylist.Add('richard');
         // mylist.Add('arun');
         // mylist.Add('ted');
-        // mylist.Add('justin');
+        // mylist.Get(1)
 
         // mylist.AddRange(list2);
 
